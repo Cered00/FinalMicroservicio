@@ -1,4 +1,4 @@
-# Microservicios de Gestión de Pedidos
+# Microservicios
 
 Este proyecto es una implementación de una arquitectura de microservicios diseñada para manejar de manera eficiente y escalable las operaciones de autenticación, pedidos, productos y pagos. Se basa en el ecosistema Spring Boot, comunicándose a través de APIs REST y utilizando bases de datos MySQL para la persistencia de datos.
 
